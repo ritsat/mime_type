@@ -1,16 +1,12 @@
-# mime_type
+# Flutter mime type
 
-A Flutter project to show how to get mime type of a file.
+Get file mime type
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This flutter project is an example to get mime type for any file. In this project,[Mime](https://pub.dev/packages/mime) package is used to get mime type for the file.
 
-A few resources to get you started if this is your first Flutter project:
+Watch below Youtube video for more details,
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[![Flutter Mime Type](https://img.youtube.com/vi/d1JLMpmO-2c/0.jpg)](https://youtu.be/d1JLMpmO-2c)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
